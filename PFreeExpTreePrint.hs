@@ -2,7 +2,7 @@
 --                                                                              --
 --  Module: PFreeExpTreePrint                                                   --
 --                                                                              --
---  By: Nuno Pinto     ( nunojobpinto@gmail.com )                               --
+--  By: Nuno Job     ( nunojobpinto@gmail.com )                                 --
 --                                                                              --
 -----------------------------------------------------------------------(01/2006)--
 module PFreeExpTreePrint where

@@ -2,7 +2,7 @@
 --                                                                              --
 --  Module: PFreeExpTreeStrats                                                  --
 --                                                                              --
---  By: Nuno Pinto     ( nunojobpinto@gmail.com )                               --
+--  By: Nuno Job     ( nunojobpinto@gmail.com )                                 --
 --                                                                              --
 -- strat definition:                                                            --
 -- strat :: [(Int, (Exp Char PF, Exp Char PF))]             -- law list         --

@@ -2,7 +2,7 @@
 --                                                                              --
 --  Module: PFreeExpTree                                                        --
 --                                                                              --
---  By: Nuno Pinto     ( nunojobpinto@gmail.com )                               --
+--  By: Nuno Job     ( nunojobpinto@gmail.com )                                 --
 --                                                                              --
 --  This module defines a library to be used in the simplification of           --
 --  point-free expression trees.                                                --

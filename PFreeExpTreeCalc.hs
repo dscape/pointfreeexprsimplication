@@ -2,7 +2,7 @@
 --                                                                              --
 --  Module: PFreeExpTreeCalc                                                    --
 --                                                                              --
---  By: Nuno Pinto     ( nunojobpinto@gmail.com )                               --
+--  By: Nuno Job     ( nunojobpinto@gmail.com )                                 --
 --                                                                              --
 --  This defines a point-free expression trees simplification module.           --
 --                                                                              --

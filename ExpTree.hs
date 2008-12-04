@@ -2,7 +2,7 @@
 --                                                                              --
 --  Module: ExpTree                                                             --
 --                                                                              --
---  By: Nuno Pinto     ( nunojobpinto@gmail.com )                               --
+--  By: Nuno Job     ( nunojobpinto@gmail.com )                                 --
 --                                                                              --
 --  This module defines a library of expression trees.                          --
 --                                                                              --
